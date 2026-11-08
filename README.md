@@ -33,9 +33,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 *   **Consejos clave**: Al abrir una etiqueta HTML, recuerda siempre cerrarla.
 *   **Práctica**: [Clic para programar en CodePen](https://codepen.io/)
 
-### 🖼️ Lección 3: Dándole contenido a la página: Textos, Imágenes y Enlaces (12 min)
+### 🖼️ Lección 3: Dándole contenido a la página: Textos, Imágenes y Enlaces (3 min)
 *   **Descripción**: En esta lección se agregarán listas, imágenes y enlaces para que tu página sea interactiva.
-*   **Enlace**: [Ver la lección]()
+*   **Enlace**: [Ver la lección](https://youtu.be/elztxMdkW_Y)
 *   **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 *   **Práctica**: [Clic para programar en CodePen](https://codepen.io/)
 
@@ -71,11 +71,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | :--- | :--- | :--- |
 | 1 | Conceptos básicos: Cómo funciona la web | [CodePen](https://codepen.io/) |
 | 2 | Estructurar tu primera página HTML | [CodePen](https://shorturl.at/rS6Af) |
-| 3 | Integrar textos, imágenes y enlaces | [CodePen]() |
+| 3 | Integrar textos, imágenes y enlaces | [CodePen](https://shorturl.at/d0ZcZ) |
 | 4 | Aplicar estilos y colores con CSS | [CodePen](https://codepen.io/NicoCSE/pen/NPpOogB) |
 | 5 | Crear una página de perfil personal | [CodePen](https://shorturl.at/V0Xpa) |
 | 6 | Corregir errores y aplicar buenas prácticas | [CodePen](https://shorturl.at/8HWOn) |
-| 7 | Proyecto final: Tarjeta web sobre un videojuego | [CodePen]() |
+| 7 | Proyecto final: Tarjeta web sobre un videojuego | [CodePen](https://shorturl.at/4ItlH) |
 
 ✨ **¡Gracias por completar el curso!** ✨
 
