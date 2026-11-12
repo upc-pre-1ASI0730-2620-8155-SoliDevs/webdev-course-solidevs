@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented in this file.
 
+## [1.0.0] - 2026-11-12
+
+### Added
+
+- First stable release of the Spanish-language introductory web development course.
+
 ## [0.1.0] - 2026-11-09
 
 ### Added
